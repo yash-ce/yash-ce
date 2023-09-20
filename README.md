@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Varshney</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-ce&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ce" /> </p>
 
